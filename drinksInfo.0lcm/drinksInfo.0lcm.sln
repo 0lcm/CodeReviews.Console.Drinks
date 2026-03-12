@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "drinksInfo.0lcm", "drinksInfo.0lcm\drinksInfo.0lcm.csproj", "{50D33F9E-68B9-459A-BC3E-1734271B1C53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50D33F9E-68B9-459A-BC3E-1734271B1C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D33F9E-68B9-459A-BC3E-1734271B1C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D33F9E-68B9-459A-BC3E-1734271B1C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D33F9E-68B9-459A-BC3E-1734271B1C53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
